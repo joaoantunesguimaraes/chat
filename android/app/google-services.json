@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91240035642",
+    "project_id": "bind-chat",
+    "storage_bucket": "bind-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91240035642:android:8e2ee390c36135eadc8c03",
+        "android_client_info": {
+          "package_name": "pt.bindsolutions.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91240035642-m1hrmf6qidvco8hof95svfng1b6perfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Lf_a4VjIh9YoGTxt_YZrb8n8CkIp7fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91240035642-m1hrmf6qidvco8hof95svfng1b6perfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
